@@ -106,7 +106,7 @@ const App = () => {
           <div className="absolute inset-0 bg-gradient-to-br from-blue-50 to-blue-100 z-0"></div>
           <div className="container mx-auto px-4 md:px-6 z-10 mt-16">
             <div className="max-w-3xl">
-              <p className="text-blue-600 font-medium mb-2">Hello, I'm</p>
+              <p className="text-blue-600 font-medium mb-2">Hey! I'm</p>
               <h1 className="text-4xl md:text-6xl font-bold mb-4">Tilon Bobb</h1>
               <h2 className="text-2xl md:text-4xl font-semibold text-gray-700 mb-6">Software Engineer & Data Scientist</h2>
               <p className="text-lg text-gray-600 mb-8">Building innovative solutions with expertise in software engineering, data science, and machine learning.</p>
